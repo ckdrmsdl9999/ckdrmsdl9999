@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**ckdrmsdl9999/ckdrmsdl9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 이름        - 윤창근
+- E-MAIL.     - ckdrmsdl9999@naver.com
 
-Here are some ideas to get you started:
+## 👨‍💻 Introducing :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    
+
+## 프로그래밍 열정
+
+# <div align=center>
+
+Yoon Carrot
+</div>
+
+<div>
+
+</div>
+<hd>
+
+![ckdrmsdl9999n's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdrmsdl9999&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdrmsdl9999)](https://github.com/ckdrmsdl9999/github-readme-stats)
+
