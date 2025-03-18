@@ -27,6 +27,6 @@
 
 <hd>
 
-![ckdrmsdl9999n's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdrmsdl9999&show_icons=true&theme=radical)
+![ckdrmsdl9999n's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdrmsdl9999&show_icons=true&theme=radical&exclude_repo=ckdrmsdl9999,gongik-life-cllient-be,prac,CloneInsta,clone_instargram,Coding_Test,dev_lab)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckdrmsdl9999)](https://github.com/ckdrmsdl9999/github-readme-stats)
 
