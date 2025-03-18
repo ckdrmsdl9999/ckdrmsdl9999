@@ -14,9 +14,7 @@
 
 </div>
 
-<div>
 
-</div>
 <hd>
 
 ![ckdrmsdl9999n's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckdrmsdl9999&show_icons=true&theme=radical)
