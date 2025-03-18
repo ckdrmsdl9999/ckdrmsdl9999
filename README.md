@@ -9,8 +9,8 @@
 
 <br />
 <img src="https://img.shields.io/badge/JAVA-DB7093?style=for-the-badge&logo=styled-components&logoColor=black"/>
-<img src="https://img.shields.io/badge/SPRING-BOOT-F24E1E?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
-<img src="https://img.shields.io/badge/POSTGRE-SQL -06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=black"/>
+<img src="https://img.shields.io/badge/SPRING BOOT-F24E1E?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
+<img src="https://img.shields.io/badge/POSTGRE SQL -06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=black"/>
 <img src="https://img.shields.io/badge/JPA -0058CC?style=for-the-badge&logo=Tailwind CSS&logoColor=black"/>
 <br />
 <img src="https://img.shields.io/badge/GitHub-E8E8E8?style=for-the-badge&logo=GitHub&logoColor=black"/>
