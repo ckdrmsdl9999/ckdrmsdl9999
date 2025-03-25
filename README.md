@@ -15,7 +15,14 @@
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=black"/>  
 
 <br />    
+📁 Projects
 
+| 프로젝트 | 설명 |
+| -------- | ---- |
+| 🛵 [배달 주문 백엔드 애플리케이션](https://github.com/ckdrmsdl9999/delivery-backend) | 주문 접수, 배달 상태 관리 등 기본 백엔드 로직을 구현한 프로젝트 |
+| 🏭 [물류 배송 주문 백엔드 MSA 프로젝트](https://github.com/ckdrmsdl9999/9pang-MSA-Project) | 마이크로서비스 아키텍처 기반의 물류 배송 시스템 백엔드 구현 |
+
+---
 
 
 # <div align=center>
