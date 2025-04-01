@@ -23,6 +23,10 @@
 | 🛵 [배달 주문 백엔드 애플리케이션](https://github.com/ckdrmsdl9999/delivery-backend) | 주문 접수, 배달 상태 관리 등 기본 백엔드 로직을 구현한 프로젝트 |
 | 🏭 [물류 배송 주문 백엔드 MSA 프로젝트](https://github.com/ckdrmsdl9999/9pang-MSA-Project) | 마이크로서비스 아키텍처 기반의 물류 배송 시스템 백엔드 구현 |
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{ckdrmsdl9999}?pet-id=1" width="1000" height="120"/>
+</a>
+
 ---
 
 
