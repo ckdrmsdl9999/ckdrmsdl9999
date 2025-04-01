@@ -7,9 +7,10 @@
 ## Tech Stack 
 **Used as main** <br />
 
-<img src="https://img.shields.io/badge/JAVA-DB7093?style=for-the-badge&logo=openjdk&logoColor=black"/> <img src="https://img.shields.io/badge/SPRING BOOT-F24E1E?style=for-the-badge&logo=Bootstrap&logoColor=black"/>
+<img src="https://img.shields.io/badge/JAVA-DB7093?style=for-the-badge&logo=openjdk&logoColor=black"/> <img src="https://img.shields.io/badge/SPRING BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/POSTGRE SQL -06B6D4?style=for-the-badge&logo=postgresql&logoColor=black"/>  <img src="https://img.shields.io/badge/DOCKER -C1F0D4?style=for-the-badge&logo=docker&logoColor=black"/>
-<img src="https://img.shields.io/badge/JPA -0058CC?style=for-the-badge&logo=Tailwind CSS&logoColor=black"/> <img src="https://img.shields.io/badge/AWS -T1J0A4?style=for-the-badge&logo=amazonwebservices&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-FACC15?style=for-the-badge&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/JPA -0058CC?style=for-the-badge&logo=Tailwind CSS&logoColor=black"/> <img src="https://img.shields.io/badge/AWS -T1J0A4?style=for-the-badge&logo=amazonwebservices&logoColor=black"/> <img src="https://img.shields.io/badge/REACT-FACC15?style=for-the-badge&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/REDIS-A41E11?style=for-the-badge&logo=redis&logoColor=white"/>
+
 
 <img src="https://img.shields.io/badge/GitHub-E8E8E8?style=for-the-badge&logo=GitHub&logoColor=black"/> <img src="https://img.shields.io/badge/notion-007396?style=for-the-badge&logo=notion&logoColor=black"/> 
  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=black"/>  
